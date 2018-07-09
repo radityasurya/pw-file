@@ -1,0 +1,9 @@
+pw-file:
+  name: "secret.txt"
+  entries: 
+    john:
+      fullname: "John Doe"
+      password: "very secret"
+    jane:
+      fullname: "Jane Doe"
+      password: "RjEePj5F7dNyh7hkM9BESQ8Y8"
